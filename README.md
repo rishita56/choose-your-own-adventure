@@ -1,1 +1,2 @@
 # choose-your-own-adventure
+Choose Your Own Adventure is an interactive Python game that allows users to shape their journey by making decisions at various points in the story. Depending on the choices made, the storyline progresses through different paths, leading to unique outcomes. This project demonstrates the use of control flow, user input handling, and basic storytelling techniques in Python.
